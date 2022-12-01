@@ -7,6 +7,11 @@ A Nibble NFT. Developed for NFT digital preservation testing
 * Code: [hearts.p8](p8/hearts.p8)
 * Image: [2022-11-27-nibble-pico8-nft_hearts.gif](nft/2022-11-27-nibble-pico8-nft_hearts.gif)
 
+## NFT viewer
+
+* [NIBBLEHearts@cnft.me](https://cnft.me/asset1d2hamdw6398c7hjvtdvyrhmypcvy559tn84mmt?id=9873892)
+* [NIBBLEHearts@pool.pm](https://pool.pm/asset1d2hamdw6398c7hjvtdvyrhmypcvy559tn84mmt)
+
 ## Embedded XMP
 
 Using the following commands.
